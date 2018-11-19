@@ -1,0 +1,2 @@
+'model_check_point/' filter=lfs diff=lfs merge=lfs -text
+'Latest_Fine_Tuning_moedel_20181118/' filter=lfs diff=lfs merge=lfs -text
